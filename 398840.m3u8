@@ -4,8 +4,6 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-TARGETDURATION:11
-#EXTINF:1.281000,
-https://videomanager-playout.kinetiq.tv/playoutservice/api/v1/segment/segment_398840_4bQFlX8Q20-3hrK87JuquQ_Sd_Full_CH01073_20230824T130400Z_20230824T130500Z_00000.ts
 #EXTINF:10.039000,
 https://videomanager-playout.kinetiq.tv/playoutservice/api/v1/segment/segment_398840_4bQFlX8Q20-3hrK87JuquQ_Sd_Full_CH01073_20230824T130500Z_20230824T130600Z_00001.ts
 #EXTINF:10.321000,
